@@ -1,0 +1,25 @@
+.mobile-view {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .mobile-view input {
+    padding: 10px;
+    margin: 5px 0;
+    width: 80%;
+  }
+  
+  .mobile-view button {
+    padding: 10px;
+    width: 80%;
+    background-color: #4CAF50; /* Green */
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .mobile-view button:hover {
+    background-color: #45a049;
+  }
+  
